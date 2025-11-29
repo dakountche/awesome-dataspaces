@@ -1,5 +1,7 @@
 # Awesome list on Data Spaces
 
+![IDSA Data Space](./images/banner.png)
+
 
 ## Protocols
 
