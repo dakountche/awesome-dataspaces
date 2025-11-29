@@ -19,5 +19,4 @@
 ## Middlewares
 
 
-- [SIMPL](https://code.europa.eu/simpl/simpl-open/documentation/user-manual): SIMPL is an open source, smart and secure middleware platform that supports data access and interoperability among European data spaces. 
-
+- [SIMPL](https://code.europa.eu/simpl/simpl-open/documentation/user-manual): SIMPL is an open source, smart and secure middleware platform that supports data access and interoperability among European data spaces.  SIMPL uses the Eclipse Connector in the agents of the Data Spaces participants.
