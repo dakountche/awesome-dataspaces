@@ -19,6 +19,9 @@
 - [FIWARE TRUE Connector](https://github.com/Engineering-Research-and-Development/fiware-true-connector): The FTC is a connector for the IDS (International Data Space) ecosystem. It is has three components: the Execution Core Container, the FIWARE Data Application and the Usage-Control Data application. This project is not maintained.  
 
 
-## Middlewares
+## Reference Implementations
 
 - [SIMPL](https://code.europa.eu/simpl/simpl-open/documentation/user-manual): SIMPL is an open source, smart and secure middleware platform that supports data access and interoperability among European data spaces.  SIMPL uses the Eclipse Connector in the agents of a SIMPL-based Dataspace. These agents are: Consumer, Data Provider, Governance Authority and Infrastructure Provider.  
+
+- [Eclipse Tractus-X](https://github.com/eclipse-tractusx): Tractus-X is an open-source project that aims to facilitate the deployment of Data Spaces based on EDC in various industries, including automotive, manufacturing, chemical, and energy sectors. Tractus-X is used in CATENA-X and several other dataspaces.
+
